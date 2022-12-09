@@ -28,7 +28,7 @@ This is a Advanced model of our Blog Application for Creating Own Posts in our w
 
 Weather information Application build for known the weather details, its using **OpenWeatherMap API service & NODEJS**
 
-💻&nbsp;&nbsp;[Social Media]
+💻&nbsp;&nbsp;**[Chat App]()**
 This is a Online Chat Application using **ReactJS as Front-End** & **NodeJS as Back-End** 
 (currently working on it) 
 
