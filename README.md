@@ -12,23 +12,23 @@ Currently, I live in Coimbatore, IN and work as **Full-Stack Developer** at **Fr
 ### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
 <br>
 
-💼&nbsp;&nbsp;**[ToDo List](https://seujob.tech)**
+💼&nbsp;&nbsp;**[ToDo List](https://github.com/sivakrishnacode/todolistV1)**
 
-ToDo list is a web application created using NodeJs, Express, MongoDB
+ToDo list is a web application created using **NodeJs, Express, MongoDB**
 
-📺&nbsp;&nbsp;**[Blog App v1](https://protocoloalterado.com.br)**
+📺&nbsp;&nbsp;**[Blog App v1](https://github.com/sivakrishnacode/BlogApp_V1-without-DB)**
 
-Blog Application for **Creating Own Posts in our website** with help of EJS & NODE JS 
+Blog Application for Creating Own Posts in our website with help of **EJS & NODE JS** 
 
-📝&nbsp;&nbsp;**[Blog App v2 with DB](https://betomuniz.com)**
+📝&nbsp;&nbsp;**[Blog App v2 with DB](https://github.com/sivakrishnacode/BlogApp_v2-With-DB)**
 
-This is a Advanced model of our Blog Application for **Creating Own Posts in our website** with help of EJS , NODE JS & MONGODB
+This is a Advanced model of our Blog Application for Creating Own Posts in our website with help of **EJS , NODE JS & MONGODB**
 
-🕷&nbsp;&nbsp;**[WeatherApi Project](https://github.com/obetomuniz/tatooine)**
+🕷&nbsp;&nbsp;**[WeatherApi Project](https://github.com/sivakrishnacode/weatherApi)**
 
-Weather information Application build for known the weather details, its using OpenWeatherMap API service & NODEJS
+Weather information Application build for known the weather details, its using **OpenWeatherMap API service & NODEJS**
 
-💻&nbsp;&nbsp;[Secret App](https://github.com/obetomuniz/autocomplete-semantic-web)
-
-this is a online chat application (currently working on it)
+💻&nbsp;&nbsp;[Secret App]
+This is a Online Chat Application using **ReactJS as Front-End** & **NodeJS as Back-End** 
+(currently working on it) 
 
