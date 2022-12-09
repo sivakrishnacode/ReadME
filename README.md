@@ -6,32 +6,29 @@ I'm **Siva Krishna**,
 
 Currently, I live in Coimbatore, IN and work as **Full-Stack Developer** at **Freelancing**.
 
-<br><br>
+<br>
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
 <br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24"><br><br>
 ### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
 <br>
 
-💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
+💼&nbsp;&nbsp;**[ToDo List](https://seujob.tech)**
 
-Seu Job Tech is a job board that index the best job openings in 🇧🇷 for Tech folks.
+ToDo list is a web application created using NodeJs, Express, MongoDB
 
-📺&nbsp;&nbsp;**[Protocolo Alterado](https://protocoloalterado.com.br)**
+📺&nbsp;&nbsp;**[Blog App v1](https://protocoloalterado.com.br)**
 
-Protocolo Alterado is a project that I share content on [YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA) and [Twitch](https://www.twitch.tv/protalterado) about Web Development for 🇧🇷 folks in Portuguese.
+Blog Application for **Creating Own Posts in our website** with help of EJS & NODE JS 
 
-📝&nbsp;&nbsp;**[Blog](https://betomuniz.com)**
+📝&nbsp;&nbsp;**[Blog App v2 with DB](https://betomuniz.com)**
 
-My Blog is where I share knowledge in text. I’m always trying to be as succinct as possible while writing (Twitter-culture fault?). I call the format that I write content “Drops”, which in the end is just an assertive communication exploration that I do while writing webdev content.
+This is a Advanced model of our Blog Application for **Creating Own Posts in our website** with help of EJS , NODE JS & MONGODB
 
-🕷&nbsp;&nbsp;**[Tatooine](https://github.com/obetomuniz/tatooine)**
+🕷&nbsp;&nbsp;**[WeatherApi Project](https://github.com/obetomuniz/tatooine)**
 
-A minimal, powerful and pluggable web scrapper that I created for Node.js.
+Weather information Application build for known the weather details, its using OpenWeatherMap API service & NODEJS
 
-💻&nbsp;&nbsp;[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
+💻&nbsp;&nbsp;[Secret App](https://github.com/obetomuniz/autocomplete-semantic-web)
 
-A plugin for Atom to help its users to adopt semantic standards while coding web pages.
+this is a online chat application (currently working on it)
 
-🕴&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
-
-Minas Dev is a local community in 🇧🇷 for software engineers that I am Co-founder and Leader.
